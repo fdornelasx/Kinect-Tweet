@@ -10,7 +10,7 @@ git clone https://github.com/IBM-Bluemix/controller-kinect-bluemix.git
 ```
 - step1 - follow the instructions on README at https://github.com/IBM-Bluemix/controller-kinect-bluemix
 
-- step2 - after configure the controller-kinect-bluemix code with you credentials
+- step2 - after configure the controller-kinect-bluemix code with you credentials (App.java, with deviceId,apikey,apitoken and org of the ibmiot)
 
 - step 3 - Copy the code on kinect-tweet.json of fillipedornelas@git
 ```
